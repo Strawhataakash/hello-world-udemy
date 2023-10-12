@@ -7,7 +7,7 @@
     <label for="Your Name"><b>Enter your Name</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
         
-    <label for="Ypur mobile"><b>Enter your mobile</b></label>
+    <label for="Your mobile"><b>Enter your mobile</b></label>
     <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
     
     <label for="email"><b>Enter Email</b></label>
@@ -27,7 +27,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, RCB Esala Cup Namde</h1>
+   <h1> Thankyou, Play Bold!! Esala Cup Namde</h1>
 
   
 </form>
