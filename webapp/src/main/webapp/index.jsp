@@ -27,7 +27,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Esala Cup Namde</h1>
+   <h1> Thankyou, RCB Esala Cup Namde</h1>
 
   
 </form>
