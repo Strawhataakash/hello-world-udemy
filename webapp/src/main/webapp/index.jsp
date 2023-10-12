@@ -4,10 +4,10 @@
     <p>Please fill in this form to create an account.</p>
     <hr>
      
-    <label for="Your Name"><b>Enter Name</b></label>
+    <label for="Your Name"><b>Enter your Name</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
         
-    <label for="Ypur mobile"><b>Enter mobile</b></label>
+    <label for="Ypur mobile"><b>Enter your mobile</b></label>
     <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
     
     <label for="email"><b>Enter Email</b></label>
@@ -27,7 +27,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Learning </h1>
+   <h1> Thankyou, Happy Learning Aakash </h1>
 
   
 </form>
