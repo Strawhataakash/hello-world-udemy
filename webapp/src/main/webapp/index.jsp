@@ -27,7 +27,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Play Bold!! Esala Cup Namde</h1>
+   <h1> InitCommit Thankyou, Play Bold!! Esala Cup Namde</h1>
 
   
 </form>
