@@ -27,7 +27,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> CI/CD Integration completed succesfully</h1>
+   <h1> CI/CD Integration is completed succesfully and integrated !! </h1>
 
   
 </form>
